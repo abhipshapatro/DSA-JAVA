@@ -8,7 +8,7 @@ public class Currency {
 
         double usd = inr / 73;
         System.out.println("Currency in USD : "+ usd);
-        
+        s.close();
     }
     
 }
